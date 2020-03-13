@@ -5,10 +5,10 @@
 #include <ESP8266WiFi.h>
 #include <Servo.h>
  
-#define FIREBASE_HOST "smartbin-110eb.firebaseio.com"
-#define FIREBASE_AUTH "tw5KSlGqY0pZC4xPIsc8xGlsaOFzUEO7QPctfdWI"
-#define WIFI_SSID "se3nib4nis"
-#define WIFI_PASSWORD "pk2757453"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxxxxxxxxx"
 
  
 Servo servo1;

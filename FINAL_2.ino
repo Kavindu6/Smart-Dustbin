@@ -2,14 +2,14 @@
 #include <SoftwareSerial.h>
 #include <FirebaseArduino.h>
 #include <ArduinoJson.h>
- #include <ESP8266HTTPClient.h>
- #include <ESP8266WiFi.h>
+#include <ESP8266HTTPClient.h>
+#include <ESP8266WiFi.h>
 
  
-#define FIREBASE_HOST "smartbin-110eb.firebaseio.com"
-#define FIREBASE_AUTH "tw5KSlGqY0pZC4xPIsc8xGlsaOFzUEO7QPctfdWI"
-#define WIFI_SSID "se3nib4nis"
-#define WIFI_PASSWORD "pk2757453"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxxxxxxxxxxx"
 
 static const int RXPin = 4, TXPin = 3;
 static const uint32_t GPSBaud = 9600;
